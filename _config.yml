@@ -23,8 +23,8 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Hedong YAN"
-  pronouns         :  # example: "she/her"  
-  bio              : "no biography for the left-hand sidebar"
+  pronouns         : # example: "she/her"  
+  bio              : # "no biography for the left-hand sidebar"
   location         : "China"
   employer         : "Institute of Computing Technology, Chinese Academy of Science"
   uri              : # URL
@@ -36,7 +36,7 @@ author:
   impactstory      : # URL
   orcid            : "http://orcid.org/0000-0002-3575-9960"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
