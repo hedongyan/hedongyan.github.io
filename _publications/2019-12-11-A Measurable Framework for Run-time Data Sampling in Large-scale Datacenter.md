@@ -3,7 +3,7 @@ title: "A Measurable Framework for Run-time Data Sampling in Large-scale Datacen
 collection: publications
 category: conferences
 permalink: /publication/2019-12-11-A Measurable Framework for Run-time Data Sampling in Large-scale Datacenter
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.' 
+excerpt: 'Problem: Due to the huge size of data centers, limited computing resources and the requirement of low delay, it is very difficult and unrealistic to collect all the data in large-scale data centers.\nSolution: Propose a measurable framework for general run-time data sampling in large-scale data center by modeling underlying recovering hypothesis explicitly'
 date: 2019-12-11
 venue: '2019 IEEE International Conference on Signal, Information and Data Processing (ICSIDP)'
 slidesurl: 'http://hedongyan.github.io/files/slides1.pdf'
