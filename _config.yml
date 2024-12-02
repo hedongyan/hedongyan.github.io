@@ -21,12 +21,12 @@ repository               : "hedongyan/hedongyan.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpeg"
   name             : "Hedong YAN"
   pronouns         : # example: "she/her"  
   bio              : # "no biography for the left-hand sidebar"
   location         : "China"
-  employer         : "Institute of Computing Technology, Chinese Academy of Science"
+  employer         : "ICT, CAS"
   uri              : # URL
   email            : "herdonyan@outlook.com" 
 
