@@ -8,7 +8,7 @@ date: 2022-06-22
 location: "Zoom meeting"
 ---
 
-[Course information](https://ymsc.tsinghua.edu.cn/info/1048/3019.html)
+[Course information](https://ymsc.tsinghua.edu.cn/info/1048/3019.htm)
 
 [Presented Material](/files/propensity score0607_v3.pdf)
 
