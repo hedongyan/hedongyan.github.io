@@ -11,35 +11,28 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Beijing, Beijing Institute of Technology, 2021
+* B.S. in Qingdao, Qingdao University, 2018
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2024 ~ ?: Engineer
+  * Institute of Computing Technology, Chinese Academy of Science
+  * Duties includes: Computaional Evaluation
+  * Supervisor: Jianfeng ZHAN
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2021~2024: PhD student
+  * Hong Kong Baptist University
+  * Duties included: medical data, hetergeneous data, causality
+  * Supervisor: Xian YANG, Yike GUO, Yiuming CHEUNG, Bo HAN
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Causality
+  * Identify treatment effect on DAG with hidden common causes
+  * when and why to use causal inference
+* Game theory
+* Discreate math
 
 Publications
 ======
@@ -59,6 +52,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+<!-- Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
