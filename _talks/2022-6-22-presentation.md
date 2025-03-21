@@ -3,7 +3,7 @@ title: "Presentation at Classical Contributions to Modern Statistical Thinking (
 collection: talks
 type: "Presentation"
 permalink: /talks/2022-6-22-presentation
-venue: "Zoom meeting ID: 849 963 1368 Passcode: YMSC"
+venue: "Zoom meeting ID: 849 963 1368"
 date: 2022-06-22
 location: "Zoom meeting"
 ---
