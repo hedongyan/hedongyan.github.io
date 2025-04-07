@@ -24,7 +24,7 @@ Work experience
 * 2021~2024: PhD student
   * Hong Kong Baptist University
   * Duties included: medical data, hetergeneous data, causality
-  * Supervisor: Xian YANG, Yike GUO, Yiuming CHEUNG, Bo HAN
+  * Supervisor: Yiuming CHEUNG
   
 Skills
 ======
