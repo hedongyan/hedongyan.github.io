@@ -30,7 +30,7 @@ Skills
 ======
 * Causality
   * Identify treatment effect on DAG with hidden common causes
-  * when and why to use causal inference
+  * When and why to use causal inference
 * Game theory
 * Discreate math
 
