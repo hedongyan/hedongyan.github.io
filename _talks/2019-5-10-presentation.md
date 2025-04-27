@@ -5,8 +5,10 @@ type: "Presentation"
 permalink: /talks/2019-5-10-presentation
 venue: "403, Li Jiao, Liang xiang, Beijing Institute of Technology"
 date: 2019-05-10
-location: "403, Li Jiao, Liang xiang, Beijing Institute of Technology"
+location: "Beijing"
 ---
+
+[Course information](https://www.bit.edu.cn/xww/zhxw/jxky1/a170401.htm)
 
 [Presented Material](/files/Causality_forBIT2017Undergraduate.pdf)
 

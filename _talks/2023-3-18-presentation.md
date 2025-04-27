@@ -5,7 +5,7 @@ type: "Presentation"
 permalink: /talks/2023-3-18-presentation
 venue: "Tencent meeting"
 date: 2023-03-18
-location: "Tencent meeting"
+location: "Hong Kong"
 ---
 
 [Meeting information](https://pattern.swarma.org/mobile/study_group/22)
