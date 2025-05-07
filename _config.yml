@@ -82,10 +82,8 @@ publication_category:
     title: 'Journal Articles'    
   conferences:
     title: 'Conference Papers'
-  Rejected by Conferences:
-    title: 'Rejected by Conferences'
-  Rejected in QE of PhD:
-    title: 'Rejected in QE of PhD'
+  Qualifying Examination:
+    title: 'Qualifying Examination of PhD'
   journals:
     title: 'Journal Papers'
 
