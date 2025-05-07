@@ -84,8 +84,8 @@ publication_category:
     title: 'Conference Papers'
   Qualifying Examination:
     title: 'Qualifying Examination of PhD'
-  journals:
-    title: 'Journal Papers'
+  Rejected Papers:
+    title: 'Rejected Papers'
 
 # Site Settings
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"

@@ -6,8 +6,8 @@ permalink: /publication/2019-12-11-A Measurable Framework for Run-time Data Samp
 excerpt: 'Problem: Due to the huge size of data centers, limited computing resources and the requirement of low delay, it is very difficult and unrealistic to collect all the data in large-scale data centers. Solution: Propose a measurable framework for general run-time data sampling in large-scale data center by modeling underlying recovering hypothesis explicitly'
 date: 2019-12-11
 venue: '2019 IEEE International Conference on Signal, Information and Data Processing (ICSIDP)'
-slidesurl: 'http://hedongyan.github.io/files/slides1.pdf'
-paperurl: 'http://hedongyan.github.io/files/A_Measurable_Framework_for_Run-time_Data_Sampling_in_Large-scale_Datacenter.pdf'
+slidesurl: '/files/slides1.pdf'
+paperurl: '/files/A_Measurable_Framework_for_Run-time_Data_Sampling_in_Large-scale_Datacenter.pdf'
 citation: 'Yan, Hedong, Shilin Wen, and Rui Han. "A Measurable Framework for Run-time Data Sampling in Large-scale Datacenter." 2019 IEEE International Conference on Signal, Information and Data Processing (ICSIDP). IEEE, 2019.'
 ---
 
