@@ -1,6 +1,6 @@
 ---
-title: "贾湖骨龠-雄笛"
-excerpt: "Global Y-Chromosomal DNA Table and Ethnic Characteristics (...-male-male-male-...) <br/><img src='/images/500x300.png'>"
+title: "A"
+excerpt: " <br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
