@@ -1,6 +1,6 @@
 ---
-title: "A"
-excerpt: " <br/><img src='/images/500x300.png'>"
+title: "贾湖骨笛-雄"
+excerpt: "The national characteristics of Y chromosome (...-male-male-male-...) <br/><img src='/images/贾湖骨笛-雄1.0.0'>"
 collection: portfolio
 ---
 
