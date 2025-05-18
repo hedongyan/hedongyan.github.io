@@ -19,7 +19,7 @@ Work experience
 * 2024 ~ ?: Engineer
   * Institute of Computing Technology, Chinese Academy of Science
   * Duties includes: Computaional Evaluation
-  * Supervisor: Jianfeng ZHAN
+  <!-- * Supervisor: Jianfeng ZHAN -->
 
 * 2021~2024: PhD student
   * Hong Kong Baptist University
