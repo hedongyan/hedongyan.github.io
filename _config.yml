@@ -78,8 +78,10 @@ author:
 publication_category:
   books:
     title: 'Books'
+  journals:
+    title: 'Journal Articles'
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'Manuscripts'    
   conferences:
     title: 'Conference Papers'
   Qualifying Examination:
