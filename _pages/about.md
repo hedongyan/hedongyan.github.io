@@ -18,3 +18,41 @@ Thanks for following me!
 I am Hedong YAN from Shandong, China. My Y-chromosome is O-F46(8025 BC)/O-Z26248(2995 BC)/O-MF186197(2975 BC)/O-MF567393(1035 BC), which may be the paternal 600 years' cousin (common paternal node is O-Z26248, 2995 BC) of Yao (O-Z26258, 2345 BC) at Shanxi and may be in the tribe of Shaohao (O-F23272, 2765 BC) at Shandong. My mtDNA is A6, which may be the original spouse of Y-chromosome Q. I have 3.79% gene of Homo neanderthalensis. Also, I have a relative higher risk of Parkinson. My dream is to reproduce my gene as much as I can, especially the Y-chromosome. So, I want to reproduce many sons with descent of my Y-chromosome (base pairs) and let them reproduce their gene as much as they can, and continue iterating to occupy the world. 
 
 <!-- <img src="/images/狗头表情.webp"> -->
+
+<!-- 新增：真随机数按钮 -->
+<h2>🎲 真随机数</h2>
+<button onclick="getTrueRandom()">获取的随机数</button>
+<p id="result">点击按钮获取随机数</p>
+
+<script>
+async function getTrueRandom() {
+  const apiKey = 'a2983a9b-9aa8-4f6b-94c7-afcfda36eb82'; // 👉 替换成你自己的 random.org key
+
+  const requestBody = {
+    jsonrpc: "2.0",
+    method: "generateDecimalFractions",
+    params: {
+      apiKey: apiKey,
+      n: 1,
+      decimalPlaces: 10
+    },
+    id: 1
+  };
+
+  try {
+    const response = await fetch("https://api.random.org/json-rpc/4/invoke", {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json"
+      },
+      body: JSON.stringify(requestBody)
+    });
+
+    const result = await response.json();
+    const value = result.result.random.data[0];
+    document.getElementById("result").textContent = "随机数是：" + value;
+  } catch (err) {
+    document.getElementById("result").textContent = "⚠️ 出错了：" + err.message;
+  }
+}
+</script>
