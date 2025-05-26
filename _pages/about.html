@@ -15,20 +15,22 @@ author_profile: true
 <p>I am Hedong YAN from Shandong, China. My Y-chromosome is O-F46(8025 BC)/O-Z26248(2995 BC)/O-MF186197(2975 BC)/O-MF567393(1035 BC), which may be the paternal 600 years' cousin (common paternal node is O-Z26248, 2995 BC) of Yao (O-Z26258, 2345 BC) at Shanxi and may be in the tribe of Shaohao (O-F23272, 2765 BC) at Shandong. My mtDNA is A6, which may be the original spouse of Y-chromosome Q. I have 3.79% gene of Homo neanderthalensis. Also, I have a relative higher risk of Parkinson. My dream is to reproduce my gene as much as I can, especially the Y-chromosome. So, I want to reproduce many sons with descent of my Y-chromosome (base pairs) and let them reproduce their gene as much as they can, and continue iterating to occupy the world. </p>
 <!-- <img src="/images/狗头表情.webp"> -->
 
-<!-- 新增：真随机数按钮 -->
-<h1>真随机数 🎲</h1>
-<button onclick="getRandomBit()">获取的随机数</button>
+<h1>真随机数生成 🎲</h1>
+<button onclick="getRandomBit()">获取随机数0或1</button>
 <p id="result">点击按钮获取随机数</p>
 
 <script>
   async function getRandomBit() {
+    const resultEl = document.getElementById("result");
+    resultEl.textContent = "正在生成，请稍候...";
     try {
       const res = await fetch('https://www.random.org/integers/?num=1&min=0&max=1&col=1&base=10&format=plain&rnd=new');
       if (!res.ok) throw new Error('网络错误');
       const text = await res.text();
-      document.getElementById("result").textContent = "随机数是：" + text.trim();
+      const bit = text.trim();
+      resultEl.textContent = `新的随机数是：${bit} （时间：${new Date().toLocaleTimeString()}）`;
     } catch (e) {
-      document.getElementById("result").textContent = "获取随机数失败：" + e.message;
+      resultEl.textContent = "获取随机数失败：" + e.message;
     }
   }
-  </script>
+</script>
