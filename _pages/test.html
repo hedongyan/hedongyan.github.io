@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <title>测试随机数生成</title>
+</head>
+<body>
+  <h1>生成 0 或 1 的随机数</h1>
+  <button onclick="getRandomBit()">获取随机数</button>
+  <p id="result">点击按钮获取随机数</p>
+
+  <script>
+    async function getRandomBit() {
+      try {
+        const res = await fetch('https://www.random.org/integers/?num=1&min=0&max=1&col=1&base=10&format=plain&rnd=new');
+        if (!res.ok) throw new Error('网络错误');
+        const text = await res.text();
+        document.getElementById("result").textContent = "随机数是：" + text.trim();
+      } catch (e) {
+        document.getElementById("result").textContent = "获取随机数失败：" + e.message;
+      }
+    }
+  </script>
+</body>
+</html>
