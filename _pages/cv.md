@@ -24,7 +24,7 @@ Work experience
 * 2021~2024: PhD student
   * Hong Kong Baptist University
   * Duties included: medical data, hetergeneous data, causality
-  * Supervisor: Yiuming CHEUNG
+  * Supervisor: Yiuming CHEUNG (A member of European Academy of Sciences and Arts, IEEE Fellow, AAAS Fellow, RGC Senior Research Fellow, Changjiang Scholars)
   
 Skills
 ======
