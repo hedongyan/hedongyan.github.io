@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* M.S. in Beijing, Beijing Institute of Technology, 2021
-* B.S. in Qingdao, Qingdao University, 2018
+* Computer Science and Technology, M.S. in Beijing, Beijing Institute of Technology, 2018-2021
+* Internet of Things Engineering, B.S. in Qingdao, Qingdao University, 2014-2018
 
 Work experience
 ======
