@@ -19,9 +19,8 @@ Work experience
 * 2024 ~ ?: Engineer
   * Institute of Computing Technology, Chinese Academy of Science
   * Duties includes: Computaional Evaluation
-  <!-- * Supervisor: Jianfeng ZHAN -->
 
-* 2021~2024: PhD (Passed Qualifying Examination but Withdrawal)
+* 2021~2024: PhD (Passed Qualifying Examination and Withdrawal)
   * Hong Kong Baptist University
   * Duties included: medical data, hetergeneous data
   * Supervisor: Yiuming CHEUNG (A member of European Academy of Sciences and Arts, IEEE Fellow, AAAS Fellow, RGC Senior Research Fellow, Changjiang Scholars)
