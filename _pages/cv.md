@@ -11,19 +11,18 @@ redirect_from:
 
 Education
 ======
+* 2021~2024: PhD ABD
+  * Department of Computer Science, Hong Kong Baptist University
+  * Duties included: causal model evaluation, hetergeneous data, medical data
+  * Supervisor: Yiuming CHEUNG (YMC, A member of European Academy of Sciences and Arts, IEEE Fellow, AAAS Fellow, RGC Senior Research Fellow, Changjiang Scholars)
 * Computer Science and Technology, M.S. in Beijing, Beijing Institute of Technology, 2018-2021
 * Internet of Things Engineering, B.S. in Qingdao, Qingdao University, 2014-2018
 
 Work experience
 ======
-* 2024 ~ ?: Engineer
+* 2024 ~ 2025: Engineer
   * Institute of Computing Technology, Chinese Academy of Science
   * Duties includes: Computaional Evaluation
-
-* 2021~2024: PhD ABD
-  * Hong Kong Baptist University
-  * Duties included: medical data, hetergeneous data
-  * Supervisor: Yiuming CHEUNG (A member of European Academy of Sciences and Arts, IEEE Fellow, AAAS Fellow, RGC Senior Research Fellow, Changjiang Scholars)
   
 Skills
 ======
