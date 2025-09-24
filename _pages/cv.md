@@ -20,7 +20,7 @@ Work experience
   * Institute of Computing Technology, Chinese Academy of Science
   * Duties includes: Computaional Evaluation
 
-* 2021~2024: PhD (Passed Qualifying Examination)
+* 2021~2024: PhD ABD
   * Hong Kong Baptist University
   * Duties included: medical data, hetergeneous data
   * Supervisor: Yiuming CHEUNG (A member of European Academy of Sciences and Arts, IEEE Fellow, AAAS Fellow, RGC Senior Research Fellow, Changjiang Scholars)
